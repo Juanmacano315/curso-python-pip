@@ -214,8 +214,7 @@ cython_debug/
 ### Python Patch ###
 # Poetry local configuration file - https://python-poetry.org/docs/configuration/#local-configuration
 poetry.toml
-.png
-
+*.png
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -242,5 +241,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+.
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
